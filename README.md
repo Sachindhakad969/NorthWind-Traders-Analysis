@@ -101,13 +101,6 @@ Conclusion:
 This Northwind Sales Dashboard offers a comprehensive overview of key sales metrics, providing valuable insights to drive business growth and enhance overall performance.
 
 
-
-
-
-
-
-#DataAnalysis #BusinessIntelligence #SalesDashboard #Northwind #DataDriven #BusinessGrowth #Analytics #ProjectManagement
-
 Key Highlights:
 
 Total Sales: The company achieved a total sales figure of $1.27 million.
